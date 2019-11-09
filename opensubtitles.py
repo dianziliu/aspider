@@ -15,8 +15,8 @@ import pandas as pd
 from tqdm import tqdm
 import csv 
 
-osd_username = 'dianziliu@outlook.com'
-osd_password = '3167482'
+osd_username = "your opensubtitles username"
+osd_password = 'the password'
 
 class Agent():
     """ opensubtitle 的用户代理"""
