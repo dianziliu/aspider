@@ -7,8 +7,8 @@ from plan import i,n,t,ids
 from plan import get_imdb_ID 
 import time
 
-osd_username = 'dianziliu@outlook.com'
-osd_password = '3167482'
+osd_username = 'xxxx'
+osd_password = 'xxxx'
 
 def process(agent,id,title):
     # 若返回-1，则表示失败
